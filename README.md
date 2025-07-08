@@ -1,12 +1,43 @@
-- 👋 Hi, I’m @Coder-piyy
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on 
-- 📫 pandeypiyush2903@gmail.com
-- 😄 piyush
-- ⚡ Fun fact: - I love cooking 
+# Hi there 👋 I'm Piyush Pandey
 
-<!---
-Coder-piyy/Coder-piyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech CSE Student | 💻 Developer | 🌐 Networking Enthusiast | 🛡️ Cybersecurity Learner
+
+---
+
+### 🧠 About Me
+I'm a Computer Science student at **Amity University Raipur** with a strong passion for technology, open-source, and cybersecurity. I specialize in **Java, C, C++, Python**, and I'm deeply interested in **Linux systems** and **computer networking**.
+
+Currently, I serve as the **Networking Expert** at **Piratage — The Ethical Hacking Club** at my university, where I explore ethical hacking, network security, and real-world threats.
+
+---
+
+###  Skills & Tools
+
+- 💻 **Languages:** Java, Python, C, C++
+- 🐧 **Operating Systems:** Linux (Ubuntu, Kali), Windows
+- 🌐 **Networking:** Packet Tracing, TCP/IP, Network Security
+- ⚙️ **Tools:** Wireshark, Postman, Git, VS Code
+- 🔐 **Cybersecurity:** Ethical Hacking (Beginner), windows hacking, wifi-hacking
+- 🌱 **Currently Learning:** Full-Stack App Development , Red Team Techniques
+
+---
+
+---
+
+### 📜 Certifications & Achievements
+
+- ✅ Postman API Fundamentals Student Expert  
+- 🌟 Completed Gen AI Labs by Google Developer Group  
+- 🧠 Active member of tech communities and university hackathons  
+
+---
+
+### 📫 Connect With Me
+
+- 🌐 LinkedIn:-https://www.linkedin.com/in/piyush-pandey-hacker297s/
+- ✉️ Email: hellowpiyush2004@gmail.com
+
+---
+
+> "Always learning, always curious — building one line of code at a time."
+
