@@ -27,6 +27,7 @@ Currently, I serve as the **Networking Expert** at **Piratage — The Ethical Ha
 ### 📜 Certifications & Achievements
 
 - ✅ Postman API Fundamentals Student Expert  
+- 🌐 Udemy Blockchain and bitcoin basics
 - 🌟 Completed Gen AI Labs by Google Developer Group  
 - 🧠 Active member of tech communities and university hackathons  
 
